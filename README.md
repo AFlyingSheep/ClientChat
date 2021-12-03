@@ -10,5 +10,7 @@ A chat based on one port of TCP.
 
 ![Image text](https://github.com/AFlyingSheep/ChatClient/blob/master/image/Server.jpeg)
 
+![Image text](https://github.com/AFlyingSheep/ClientChat/blob/master/image/1.png)
+
 #### 参考资料 ####
 https://blog.csdn.net/wozaipermanent/article/details/78847738
